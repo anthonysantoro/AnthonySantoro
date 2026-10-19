@@ -1,6 +1,6 @@
 ## <p align="center">Hi there 👋</p>
 <p>👨‍💻 <a href="https://www.anthonysantoro.me"> About Me</a>.</p>
-<p>I'm currently a **Tier 1 Helpdesk Technician** based in Gainesville, Florida, focused on assisting users with PC technical issues. Currently my focus is on:</p>
+<p>I'm currently a <strong>Tier 1 Helpdesk Technician</strong> based in Gainesville, Florida, focused on assisting users with PC technical issues. Currently my focus is on:</p>
 
 
 
