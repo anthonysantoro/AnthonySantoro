@@ -3,7 +3,15 @@
 <p>I'm currently a <strong>Tier 1 Helpdesk Technician</strong> based in Gainesville, Florida, focused on assisting users with PC technical issues. Currently my focus is on:</p>
 <ul>
   <li>📚<strong>Acquiring Skills</strong>: I'm regularly updating my knowledge base by keeping up with trends in the industry through <a href="https://www.anthonysantoro.me/certifications"><strong>certifications</strong></a> & <a href="https://www.anthonysantoro.me/projects"><strong>personal tech projects</strong></a>.</li>
+  <li>🌐<strong>Networking Fundamentals</strong>: Currently pursuing <a href="https://www.anthonysantoro.me/certifications"><strong>certifications</strong></a> to bolster my skills in <strong>network administration</strong> & <strong>systems management</strong>.</li>
+  <li>💻<strong>Linux Fundamentals & Networking</strong>: Actively pursuing certifications & education to further my understanding of <strong>core networking infrastructure</strong> & <strong>Linux systems administration</strong>.</li>
 </ul>
+
+<h3>🛠️ <a href="https://www.anthonysantoro.me/experience"> IT Experience</a>.</h3>
+<ul>
+  <li><a href="https://stores.bestbuy.com/fl/gainesville/3750-sw-archer-rd-424.html"> Advanced Repair Agent</a> | January 2026 - Present.</li>
+</ul>
+
 
 
 <!--
