@@ -2,7 +2,7 @@
 <h3>👨‍💻 <a href="https://www.anthonysantoro.me"> About Me</a>.</h3>
 <p>I'm currently a <strong>Tier 1 Helpdesk Technician</strong> based in Gainesville, Florida, focused on assisting users with PC technical issues. Currently my focus is on:</p>
 <ul>
-  <li>📚<strong>Acquiring Skills</strong>: I'm regularly updating my knowledge base by keeping up with trends in the industry through <a href="https://www.anthonysantoro.me/certifications"><strong>certifications</strong></a> & <a href="https://www.anthonysantoro.me/projects"><strong>personal tech projects.</strong></a></li>
+  <li>📚<strong>Acquiring Skills</strong>: I'm regularly updating my knowledge base by keeping up with trends in the industry through <a href="https://www.anthonysantoro.me/certifications"><strong>certifications</strong></a> & <a href="https://www.anthonysantoro.me/projects"><strong>personal tech projects</strong></a>.</li>
 </ul>
 
 
